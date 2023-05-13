@@ -21,6 +21,10 @@
 - Rust
 - Machine Learning
 
+## Github Stats
+[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegopluna&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 🎵 Spotify status
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=diego.peter&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 <!--
