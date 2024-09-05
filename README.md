@@ -37,7 +37,7 @@ hobbies: ["Formula 1", "Cinema", "Competitive Gaming", "Rocket Science"]
 
 > 📦 138.7 kB Used in GitHub's Storage 
  > 
-> 🏆 958 Contributions in the Year 2024
+> 🏆 957 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,8 +45,30 @@ hobbies: ["Formula 1", "Cinema", "Competitive Gaming", "Rocket Science"]
  > 
 > 🔑 40 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 05/09/2024 12:27:20 UTC
+```text
+🌞 Morning                482 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+🌆 Daytime                1261 commits        ████████░░░░░░░░░░░░░░░░░   33.22 % 
+🌃 Evening                1612 commits        ███████████░░░░░░░░░░░░░░   42.47 % 
+🌙 Night                  441 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Recife
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 05/09/2024 12:37:01 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
