@@ -32,4 +32,9 @@ hobbies: ["Formula 1", "Cinema", "Competitive Gaming", "Rocket Science"]
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-simple-->
