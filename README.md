@@ -26,13 +26,10 @@ hobbies: ["Formula 1", "Cinema", "Competitive Gaming", "Rocket Science"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
-
 <!--END_SECTION:waka-simple-->
