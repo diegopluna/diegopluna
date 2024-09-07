@@ -37,8 +37,6 @@ hobbies: ["Formula 1", "Cinema", "Competitive Gaming", "Rocket Science"]
 
 > 📦 138.7 kB Used in GitHub's Storage 
  > 
-> 🏆 960 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 23 Public Repositories 
@@ -48,9 +46,9 @@ hobbies: ["Formula 1", "Cinema", "Competitive Gaming", "Rocket Science"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                484 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-🌆 Daytime                1261 commits        ████████░░░░░░░░░░░░░░░░░   33.20 % 
-🌃 Evening                1612 commits        ███████████░░░░░░░░░░░░░░   42.44 % 
+🌞 Morning                486 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+🌆 Daytime                1261 commits        ████████░░░░░░░░░░░░░░░░░   33.18 % 
+🌃 Evening                1612 commits        ███████████░░░░░░░░░░░░░░   42.42 % 
 🌙 Night                  441 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
 ```
 
@@ -61,14 +59,17 @@ hobbies: ["Formula 1", "Cinema", "Competitive Gaming", "Rocket Science"]
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     11 mins             ███████████░░░░░░░░░░░░░░   42.28 % 
+TSConfig                 7 mins              ███████░░░░░░░░░░░░░░░░░░   26.21 % 
+TypeScript               6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
+Text                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+tanstackstart-test       27 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/09/2024 12:35:51 UTC
+ Last Updated on 07/09/2024 12:34:34 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
