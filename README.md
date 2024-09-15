@@ -79,7 +79,7 @@ finance-backend          1 hr 31 mins        ████████░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 04 September 2024 - To: 14 September 2024
+From: 04 September 2024 - To: 15 September 2024
 
 Total Time: 5 hrs 30 mins
 
