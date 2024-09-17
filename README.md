@@ -79,7 +79,7 @@ portfolio                33 mins             ███████░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 04 September 2024 - To: 16 September 2024
+From: 04 September 2024 - To: 17 September 2024
 
 Total Time: 5 hrs 30 mins
 
