@@ -82,7 +82,7 @@ fact                     11 mins             ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 04 September 2024 - To: 16 November 2024
+From: 04 September 2024 - To: 17 November 2024
 
 Total Time: 127 hrs 53 mins
 
