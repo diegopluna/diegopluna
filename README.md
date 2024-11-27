@@ -29,15 +29,15 @@ hobbies: ["Formula 1", "Cinema", "Competitive Gaming", "Rocket Science"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%2010%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 160.0 kB Used in GitHub's Storage 
+> 📦 173.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,230 Contributions in the Year 2024
+> 🏆 1,235 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,10 +48,10 @@ hobbies: ["Formula 1", "Cinema", "Competitive Gaming", "Rocket Science"]
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                941 commits         █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-🌆 Daytime                1433 commits        ████████░░░░░░░░░░░░░░░░░   30.61 % 
-🌃 Evening                1850 commits        ██████████░░░░░░░░░░░░░░░   39.52 % 
-🌙 Night                  457 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+🌞 Morning                963 commits         █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+🌆 Daytime                1464 commits        ████████░░░░░░░░░░░░░░░░░   30.58 % 
+🌃 Evening                1898 commits        ██████████░░░░░░░░░░░░░░░   39.64 % 
+🌙 Night                  463 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
 ```
 
 
@@ -61,19 +61,17 @@ hobbies: ["Formula 1", "Cinema", "Competitive Gaming", "Rocket Science"]
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-TypeScript               8 hrs 52 mins       ████████████████░░░░░░░░░   62.08 % 
-Svelte                   5 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   35.54 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+TypeScript               5 hrs 9 mins        ██████████████░░░░░░░░░░░   57.91 % 
+Svelte                   3 hrs 44 mins       ███████████░░░░░░░░░░░░░░   42.07 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-grafos                   7 hrs 14 mins       █████████████░░░░░░░░░░░░   50.69 % 
-grafo-svelte             7 hrs 2 mins        ████████████░░░░░░░░░░░░░   49.31 % 
+grafo-svelte             5 hrs 33 mins       ████████████████░░░░░░░░░   62.41 % 
+grafos                   3 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   37.59 % 
 ```
 
 
- Last Updated on 26/11/2024 12:43:11 UTC
+ Last Updated on 27/11/2024 12:43:10 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
