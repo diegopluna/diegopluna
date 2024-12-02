@@ -29,13 +29,15 @@ hobbies: ["Formula 1", "Cinema", "Competitive Gaming", "Rocket Science"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%2021%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 174.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,252 Contributions in the Year 2024
+> 🏆 1,254 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,10 +48,10 @@ hobbies: ["Formula 1", "Cinema", "Competitive Gaming", "Rocket Science"]
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                979 commits         █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-🌆 Daytime                1473 commits        ████████░░░░░░░░░░░░░░░░░   30.59 % 
-🌃 Evening                1901 commits        ██████████░░░░░░░░░░░░░░░   39.47 % 
-🌙 Night                  463 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+🌞 Morning                983 commits         █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+🌆 Daytime                1478 commits        ████████░░░░░░░░░░░░░░░░░   30.63 % 
+🌃 Evening                1901 commits        ██████████░░░░░░░░░░░░░░░   39.40 % 
+🌙 Night                  463 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
 ```
 
 
@@ -73,7 +75,7 @@ gym-raton                13 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 01/12/2024 12:41:51 UTC
+ Last Updated on 02/12/2024 12:45:12 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
