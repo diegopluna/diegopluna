@@ -79,7 +79,7 @@ gym-raton                13 mins             █████░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 04 September 2024 - To: 03 December 2024
+From: 04 September 2024 - To: 04 December 2024
 
 Total Time: 144 hrs 21 mins
 
