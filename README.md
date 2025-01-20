@@ -37,8 +37,6 @@ hobbies: ["Formula 1", "Cinema", "Competitive Gaming", "Rocket Science"]
 
 > 📦 182.6 kB Used in GitHub's Storage 
  > 
-> 🏆 75 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 31 Public Repositories 
@@ -48,9 +46,9 @@ hobbies: ["Formula 1", "Cinema", "Competitive Gaming", "Rocket Science"]
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1198 commits        ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-🌆 Daytime                1502 commits        ███████░░░░░░░░░░░░░░░░░░   29.50 % 
-🌃 Evening                1915 commits        █████████░░░░░░░░░░░░░░░░   37.61 % 
+🌞 Morning                1202 commits        ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+🌆 Daytime                1497 commits        ███████░░░░░░░░░░░░░░░░░░   29.40 % 
+🌃 Evening                1915 commits        █████████░░░░░░░░░░░░░░░░   37.62 % 
 🌙 Night                  477 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
 ```
 
@@ -68,7 +66,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 19/01/2025 12:38:15 UTC
+ Last Updated on 20/01/2025 12:44:08 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
