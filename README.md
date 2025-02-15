@@ -29,15 +29,11 @@ hobbies: ["Formula 1", "Cinema", "Competitive Gaming", "Rocket Science"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%2021%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 182.9 kB Used in GitHub's Storage 
- > 
-> 🏆 153 Contributions in the Year 2025
+> 📦 183.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,10 +44,10 @@ hobbies: ["Formula 1", "Cinema", "Competitive Gaming", "Rocket Science"]
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1330 commits        ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
-🌆 Daytime                1547 commits        ███████░░░░░░░░░░░░░░░░░░   29.06 % 
-🌃 Evening                1964 commits        █████████░░░░░░░░░░░░░░░░   36.90 % 
-🌙 Night                  482 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+🌞 Morning                1334 commits        ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+🌆 Daytime                1551 commits        ███████░░░░░░░░░░░░░░░░░░   29.07 % 
+🌃 Evening                1969 commits        █████████░░░░░░░░░░░░░░░░   36.90 % 
+🌙 Night                  482 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
 ```
 
 
@@ -68,7 +64,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 14/02/2025 12:43:03 UTC
+ Last Updated on 15/02/2025 12:40:22 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
